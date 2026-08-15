@@ -1,2 +1,4 @@
-The FluxGuard Pro 15K is engineered to optimize power quality, not to bypass or manipulate your utility meter.
-    Real-world field testing demonstrates that users can expect an average energy consumption reduction of up to 1 kW (Kilowatt-hour) per day when the device is paired with heavy household motor and inductive loads.( Refrigerator, water pump motor, aircon and washing machine and etc... )
+Eliminating Magnetic Saturation: 
+   Public power lines carry an asymmetric DC offset. When this DC enters your refrigerator, 1HP deep well pump, or 2.5 HP air conditioner, it forces the iron cores inside their motors into partial magnetic saturation. This makes the motor draw extra "parasitic" current.
+   2. Lowering Thermal Loss: 
+   Under saturation, a motor wastes a massive amount of electricity entirely as heat. The FluxGuard Pro's 15,000µF matrix filters out that DC bias. Your motors instantly run cooler, vibrate less, and stop drawing that wasted parasitic power.

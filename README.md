@@ -1,5 +1,2 @@
-Grid Surge Events
-* The Current Issue: 
-    Lightning strikes during the typhoon season or severe grid switching events frequently trigger cascade failures that burn out household electronics.
-* The FluxGuard Impact:
-    With millions of industrial-grade 50-Amp bridge rectifier clamps sitting at every residential entrance, the entire nation would have a distributed, heavy-duty absorber network. While it won't prevent a primary substation from failing, it creates a massive civilian safety net that prevents high-voltage spikes from traveling deep into residential sectors.
+If every single household in the Philippines—from the dense residential sectors of Meralco in Metro Manila to the provincial cooperatives under the National Grid Corporation of the Philippines (NGCP)—installed a FluxGuard Pro 15K, it would spark a massive, revolutionary improvement in nationwide power quality and grid stability.
+The Philippine grid frequently battles supply strain, voltage drops, and sudden line disturbances. Scaling this device to millions of homes would fundamentally change how the nation consumes power. 

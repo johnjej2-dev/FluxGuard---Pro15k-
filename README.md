@@ -1,4 +1,4 @@
-## Deep Dive: How DC Voltage Bias Destroys Household Appliances (Step-by-Step)
+Deep Dive: How DC Voltage Bias Destroys Household Appliances (Step-by-Step)
 
 ### 1. What exactly is DC voltage bias on a home electrical grid?
 Your household wall outlets are designed to deliver Alternating Current (AC), where the electrical current smoothly cycles back and forth in a perfect sine wave. DC Voltage Bias (also known as DC Offset) occurs when a Direct Current (DC) voltage gets accidentally injected into your AC power lines. This causes the entire AC sine wave to shift upward or downward away from the zero-volt center line, corrupting the purity of your power supply.
